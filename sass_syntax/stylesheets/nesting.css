@@ -1,0 +1,18 @@
+.hover {
+  text-decoration: none;
+}
+.hover:hover {
+  text-decoration: underline;
+}
+body.border-radius .hover {
+  foo: bar;
+}
+
+#sidebar h3 {
+  font-size: 2.5em;
+  font-color: #333;
+}
+
+.nested .partial {
+  color: red;
+}
